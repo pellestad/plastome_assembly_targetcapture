@@ -1,6 +1,6 @@
 setwd("~/path/to/your/project")
 
-# *** MUST be the very first thing that runs, in a completely fresh R session I thiiiiink ***
+# *** MUST be the very first thing that runs, in a completely fresh R session ***
 
 Sys.setenv(CURL_SSL_BACKEND = "openssl")
 
